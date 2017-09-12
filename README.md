@@ -1,7 +1,6 @@
 # exam-rest-api-todo
 ## Getting Started
 ### Prerequisites
-> System requires to have
 * Java 1.7+
 * Maven 3.x.x
 ### Getting Set Up
